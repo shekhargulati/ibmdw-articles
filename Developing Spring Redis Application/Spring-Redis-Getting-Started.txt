@@ -1,0 +1,8 @@
+Spring Redis Project Getting Started
+
+1) create a maven project from within eclipse
+
+2) add Spring Redis dependency
+if get slf4j-api jar error, remove the folder from .m2/repository and do clean build
+
+3) 
